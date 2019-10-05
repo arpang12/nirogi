@@ -1,0 +1,2 @@
+This openlabelling tool developed for annontating image of jpeg format.
+This will generate BBox annontation for the image suitable YOLO V3 darkflow.
